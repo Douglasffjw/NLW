@@ -25,7 +25,7 @@ header{
 header div{ /*foto de perfil*/
     width: 120px;
     margin: auto;
-    background-image: linear-gradient(90deg, #9572fc 0%, #43e7ad 50.52%, #E2D45C 100%);
+    background-image: linear-gradient(90deg, #0046c7 0%, #0800ff 50.52%, #04eaea 100%);
     
     border-radius: 50%;
     
@@ -52,7 +52,7 @@ main {
 }
 section{
     color: white;
-    background-image: linear-gradient(90deg, #9572fc 0%, #43e7ad 50.52%, #E2D45C 100%);
+    background-image: linear-gradient(90deg, #0046c7 0%, #0800ff 50.52%, #04eaea 100%);
     padding-top: 4px;
     border-radius: 10px;
 
