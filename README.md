@@ -6,7 +6,7 @@
 
 Projeto construído no evento Next Level Week da Rocketseat.
 
-[🔗Clique aqui pra acessar](https://https://douglasffjw.github.io/NLWGAMES/)
+[🔗Clique aqui pra acessar](https://douglasffjw.github.io/NLWGAMES/)
 
 ## 🛠 Tecnologias
 
