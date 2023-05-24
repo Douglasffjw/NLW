@@ -16,6 +16,6 @@ Projeto construído no evento Next Level Week da Rocketseat.
 
 # 😜Contato
  
-> Email: douglasffjw@gmail.com
+> Email: douglasfernandesti@gmail.com
 
 > Insta: @dgl4zzz
