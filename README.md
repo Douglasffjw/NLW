@@ -20,4 +20,4 @@ Projeto construído no evento Next Level Week da Rocketseat.
 
 > Whatsapp: 85 989712043 
 
-> Insta: @dgl4zz
+> Insta: @_dougl4z
