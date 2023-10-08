@@ -9,10 +9,12 @@ ul {
 
 body{
     background-image: url(./assets/dg.jpg); /*buscar a imagem*/
-    background-position: top center;/*posiçao do funso e centralizado*/
-    background-size: 100% auto;/*aumentar e diminuir 100% da largura fica na tela */
+    height: 100vh;
+    background-position: center;/*posiçao do funso e centralizado*/
+    background-size:auto;/*aumentar e diminuir 100% da largura fica na tela */
     background-repeat: no-repeat ;/*pra nao repitir*/
     background-color: #121214; /*cor*/
+   
 }
 body * {
     font-family: 'Noto Serif', sans-serif; /*TITULODO COMEÇO*/
